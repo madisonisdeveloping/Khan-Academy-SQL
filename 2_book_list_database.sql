@@ -1,9 +1,7 @@
 /*Book Database Challenge
 
-What are your favorite books? You can make a database table to store them in! In this first step, create a table to store your list of books. It should have columns for id, name, and rating.
--Hunger Games #3
--Twilight #2
--Harry Potter #1
+Step one: create a table to store your list of books. It should have columns for id, name, and rating.
+Step two: add three of your favorite books into the table.
 
 Solution */
 
