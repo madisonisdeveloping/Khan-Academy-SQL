@@ -1,6 +1,7 @@
 /*Box Office Hits Database Challenge
 
-This database contains an incomplete list of box office hits and their release year. In this challenge, you're going to get the results back out of the database in different ways! In this first step, just select all the movies.
+Step one: select all the movies.
+Step two: add a second query after the first, that retrieves only the movies that were released in the year 2000 or later, not before. Sort the results so that the earlier movies are listed first.
 
 Solution */
 
