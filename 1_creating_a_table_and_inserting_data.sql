@@ -5,7 +5,7 @@ Character Name List:
 -- Marcus (18)
 -- Harold (83)
 
-Solution*/
+Solution */
 
 CREATE TABLE people (id INTEGER PRIMARY KEY, name TEXT, quantity INTEGER);
 
