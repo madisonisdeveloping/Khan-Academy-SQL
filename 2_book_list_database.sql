@@ -1,4 +1,4 @@
-/*Book Database Challenge
+/* Book Database Challenge
 
 Step one: create a table to store your list of books. It should have columns for id, name, and rating.
 Step two: add three of your favorite books into the table.
