@@ -1,4 +1,4 @@
-/*Box Office Hits Database Challenge
+/* Box Office Hits Database Challenge
 
 Step one: select all the movies.
 Step two: add a second query after the first, that retrieves only the movies that were released in the year 2000 or later, not before. Sort the results so that the earlier movies are listed first.
